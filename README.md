@@ -12,6 +12,14 @@ Para iniciar em modo de desenvolvimento:
 
 ## Aconselhado ter instalado NODEJS versão 14.x em diante.
 
+## Arquitetura de componente:
+
+`
+|src ->
+`
+
 Para instalar o node [clique aqui](https://nodejs.org/en/)
+
+Veja o projeto online [clique aqui](https://nosso.site)
 
 ## Professor Douglas Morais
